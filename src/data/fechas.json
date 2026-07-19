@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Caída de los Ex",
+    "emoji": "🔥",
+    "regla": "Sin Pokémon EX.",
+    "desbloqueada": false
+  },
+  {
+    "id": 2,
+    "nombre": "Guerra de Elementos",
+    "emoji": "🌊🔥",
+    "regla": "Solo Pokémon Agua y Fuego.",
+    "desbloqueada": false
+  },
+  {
+    "id": 3,
+    "nombre": "Sin Recuperación",
+    "emoji": "💀",
+    "regla": "No se permiten cartas ni Pokémon que curen o aumenten vida.",
+    "desbloqueada": false
+  },
+  {
+    "id": 4,
+    "nombre": "La Maldición de Gengar",
+    "emoji": "👻",
+    "regla": "Gengar debe ser el Pokémon principal.",
+    "desbloqueada": false
+  },
+  {
+    "id": 5,
+    "nombre": "Batalla de la Diversidad",
+    "emoji": "🎲",
+    "regla": "BO1. Los jugadores del mismo equipo no pueden repetir Pokémon ni energía.",
+    "desbloqueada": false
+  },
+  {
+    "id": 6,
+    "nombre": "El Último Guerrero",
+    "emoji": "⚡",
+    "regla": "Solo una familia Pokémon. Permitido: Pokémon básico y sus evoluciones. Prohibido: otros Pokémon, segunda familia evolutiva y banca.",
+    "desbloqueada": false
+  },
+  {
+    "id": 7,
+    "nombre": "Batalla Sin Apoyo",
+    "emoji": "🃏",
+    "regla": "Sin cartas de apoyo.",
+    "desbloqueada": false
+  },
+  {
+    "id": 8,
+    "nombre": "El Despertar de la Fase 2",
+    "emoji": "🧬",
+    "regla": "Solo Pokémon con Fase 2. Prohibido: Caramelo, Paleta, Helado y aceleradores de evolución.",
+    "desbloqueada": false
+  },
+  {
+    "id": 9,
+    "nombre": "El Origen del Entrenador",
+    "emoji": "⚔️",
+    "regla": "Solo Pokémon Básicos. Prohibido: Fase 1 y Fase 2.",
+    "desbloqueada": false
+  },
+  {
+    "id": 10,
+    "nombre": "La Guardería SAW",
+    "emoji": "🍼",
+    "regla": "Solo Pokémon Baby.",
+    "desbloqueada": false
+  },
+  {
+    "id": 11,
+    "nombre": "La Suerte del Entrenador",
+    "emoji": "🪙",
+    "regla": "Solo Pokémon con ataques de moneda. Prohibido: cartas que ayuden al lanzamiento, repetir monedas y modificar resultados.",
+    "desbloqueada": false
+  },
+  {
+    "id": 12,
+    "nombre": "Dominio del Campo SAW",
+    "emoji": "🏟️",
+    "regla": "Para que una victoria sea válida, el jugador ganador debe haber utilizado al menos 1 Estadio durante la partida.",
+    "desbloqueada": false
+  }
+]

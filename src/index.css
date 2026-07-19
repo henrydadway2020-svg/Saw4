@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-void: #0e0c0b;
+  --color-panel: #1b1613;
+  --color-panel-2: #221c18;
+  --color-steel: #2a2420;
+  --color-steel-light: #3a332c;
+  --color-blood: #8c1a1a;
+  --color-blood-bright: #b8321f;
+  --color-hazard: #d8a31e;
+  --color-toxin: #4e7c6e;
+  --color-toxin-bright: #6ba894;
+  --color-bone: #e8e1d3;
+  --color-muted: #948c7e;
+  --color-muted-2: #5c564c;
+
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-void);
+  color: var(--color-bone);
+  font-family: var(--font-body);
+  background-image:
+    radial-gradient(circle at 20% 0%, rgba(140, 26, 26, 0.06), transparent 40%),
+    radial-gradient(circle at 90% 10%, rgba(78, 124, 110, 0.05), transparent 35%);
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--color-blood);
+  color: var(--color-bone);
+}
+
+/* Riveted case-file panel look */
+.rivet-panel {
+  position: relative;
+  border: 1px solid var(--color-steel-light);
+  background: linear-gradient(180deg, var(--color-panel) 0%, var(--color-panel-2) 100%);
+}
+.rivet-panel::before,
+.rivet-panel::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 9999px;
+  background: var(--color-muted-2);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.6), 0 1px 0 rgba(255,255,255,0.05);
+  top: 8px;
+}
+.rivet-panel::before { left: 8px; }
+.rivet-panel::after { right: 8px; }
+
+.hazard-tape {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    var(--color-hazard),
+    var(--color-hazard) 10px,
+    #1b1613 10px,
+    #1b1613 20px
+  );
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+@keyframes unlock-snap {
+  0% { transform: rotate(0deg) scale(1); }
+  35% { transform: rotate(-14deg) scale(1.08); }
+  60% { transform: rotate(6deg) scale(1.05); }
+  100% { transform: rotate(0deg) scale(1); }
+}
+.animate-unlock {
+  animation: unlock-snap 0.5s ease-out;
+}
+
+@keyframes chain-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-chain-in {
+  animation: chain-in 0.4s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-unlock, .animate-chain-in { animation: none !important; }
+  html { scroll-behavior: auto; }
+}

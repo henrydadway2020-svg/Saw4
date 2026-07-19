@@ -1,0 +1,638 @@
+[
+  {
+    "fechaId": 1,
+    "enfrentamientos": [
+      {
+        "id": "f1-p1",
+        "local": "eq01",
+        "visitante": "eq16",
+        "resultado": null
+      },
+      {
+        "id": "f1-p2",
+        "local": "eq02",
+        "visitante": "eq15",
+        "resultado": null
+      },
+      {
+        "id": "f1-p3",
+        "local": "eq03",
+        "visitante": "eq14",
+        "resultado": null
+      },
+      {
+        "id": "f1-p4",
+        "local": "eq04",
+        "visitante": "eq13",
+        "resultado": null
+      },
+      {
+        "id": "f1-p5",
+        "local": "eq05",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f1-p6",
+        "local": "eq06",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f1-p7",
+        "local": "eq07",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f1-p8",
+        "local": "eq08",
+        "visitante": "eq09",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 2,
+    "enfrentamientos": [
+      {
+        "id": "f2-p1",
+        "local": "eq15",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f2-p2",
+        "local": "eq14",
+        "visitante": "eq16",
+        "resultado": null
+      },
+      {
+        "id": "f2-p3",
+        "local": "eq13",
+        "visitante": "eq02",
+        "resultado": null
+      },
+      {
+        "id": "f2-p4",
+        "local": "eq12",
+        "visitante": "eq03",
+        "resultado": null
+      },
+      {
+        "id": "f2-p5",
+        "local": "eq11",
+        "visitante": "eq04",
+        "resultado": null
+      },
+      {
+        "id": "f2-p6",
+        "local": "eq10",
+        "visitante": "eq05",
+        "resultado": null
+      },
+      {
+        "id": "f2-p7",
+        "local": "eq09",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f2-p8",
+        "local": "eq08",
+        "visitante": "eq07",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 3,
+    "enfrentamientos": [
+      {
+        "id": "f3-p1",
+        "local": "eq01",
+        "visitante": "eq14",
+        "resultado": null
+      },
+      {
+        "id": "f3-p2",
+        "local": "eq15",
+        "visitante": "eq13",
+        "resultado": null
+      },
+      {
+        "id": "f3-p3",
+        "local": "eq16",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f3-p4",
+        "local": "eq02",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f3-p5",
+        "local": "eq03",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f3-p6",
+        "local": "eq04",
+        "visitante": "eq09",
+        "resultado": null
+      },
+      {
+        "id": "f3-p7",
+        "local": "eq05",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f3-p8",
+        "local": "eq06",
+        "visitante": "eq07",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 4,
+    "enfrentamientos": [
+      {
+        "id": "f4-p1",
+        "local": "eq13",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f4-p2",
+        "local": "eq12",
+        "visitante": "eq14",
+        "resultado": null
+      },
+      {
+        "id": "f4-p3",
+        "local": "eq11",
+        "visitante": "eq15",
+        "resultado": null
+      },
+      {
+        "id": "f4-p4",
+        "local": "eq10",
+        "visitante": "eq16",
+        "resultado": null
+      },
+      {
+        "id": "f4-p5",
+        "local": "eq09",
+        "visitante": "eq02",
+        "resultado": null
+      },
+      {
+        "id": "f4-p6",
+        "local": "eq08",
+        "visitante": "eq03",
+        "resultado": null
+      },
+      {
+        "id": "f4-p7",
+        "local": "eq07",
+        "visitante": "eq04",
+        "resultado": null
+      },
+      {
+        "id": "f4-p8",
+        "local": "eq06",
+        "visitante": "eq05",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 5,
+    "enfrentamientos": [
+      {
+        "id": "f5-p1",
+        "local": "eq01",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f5-p2",
+        "local": "eq13",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f5-p3",
+        "local": "eq14",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f5-p4",
+        "local": "eq15",
+        "visitante": "eq09",
+        "resultado": null
+      },
+      {
+        "id": "f5-p5",
+        "local": "eq16",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f5-p6",
+        "local": "eq02",
+        "visitante": "eq07",
+        "resultado": null
+      },
+      {
+        "id": "f5-p7",
+        "local": "eq03",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f5-p8",
+        "local": "eq04",
+        "visitante": "eq05",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 6,
+    "enfrentamientos": [
+      {
+        "id": "f6-p1",
+        "local": "eq11",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f6-p2",
+        "local": "eq10",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f6-p3",
+        "local": "eq09",
+        "visitante": "eq13",
+        "resultado": null
+      },
+      {
+        "id": "f6-p4",
+        "local": "eq08",
+        "visitante": "eq14",
+        "resultado": null
+      },
+      {
+        "id": "f6-p5",
+        "local": "eq07",
+        "visitante": "eq15",
+        "resultado": null
+      },
+      {
+        "id": "f6-p6",
+        "local": "eq06",
+        "visitante": "eq16",
+        "resultado": null
+      },
+      {
+        "id": "f6-p7",
+        "local": "eq05",
+        "visitante": "eq02",
+        "resultado": null
+      },
+      {
+        "id": "f6-p8",
+        "local": "eq04",
+        "visitante": "eq03",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 7,
+    "enfrentamientos": [
+      {
+        "id": "f7-p1",
+        "local": "eq01",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f7-p2",
+        "local": "eq11",
+        "visitante": "eq09",
+        "resultado": null
+      },
+      {
+        "id": "f7-p3",
+        "local": "eq12",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f7-p4",
+        "local": "eq13",
+        "visitante": "eq07",
+        "resultado": null
+      },
+      {
+        "id": "f7-p5",
+        "local": "eq14",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f7-p6",
+        "local": "eq15",
+        "visitante": "eq05",
+        "resultado": null
+      },
+      {
+        "id": "f7-p7",
+        "local": "eq16",
+        "visitante": "eq04",
+        "resultado": null
+      },
+      {
+        "id": "f7-p8",
+        "local": "eq02",
+        "visitante": "eq03",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 8,
+    "enfrentamientos": [
+      {
+        "id": "f8-p1",
+        "local": "eq09",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f8-p2",
+        "local": "eq08",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f8-p3",
+        "local": "eq07",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f8-p4",
+        "local": "eq06",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f8-p5",
+        "local": "eq05",
+        "visitante": "eq13",
+        "resultado": null
+      },
+      {
+        "id": "f8-p6",
+        "local": "eq04",
+        "visitante": "eq14",
+        "resultado": null
+      },
+      {
+        "id": "f8-p7",
+        "local": "eq03",
+        "visitante": "eq15",
+        "resultado": null
+      },
+      {
+        "id": "f8-p8",
+        "local": "eq02",
+        "visitante": "eq16",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 9,
+    "enfrentamientos": [
+      {
+        "id": "f9-p1",
+        "local": "eq01",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f9-p2",
+        "local": "eq09",
+        "visitante": "eq07",
+        "resultado": null
+      },
+      {
+        "id": "f9-p3",
+        "local": "eq10",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f9-p4",
+        "local": "eq11",
+        "visitante": "eq05",
+        "resultado": null
+      },
+      {
+        "id": "f9-p5",
+        "local": "eq12",
+        "visitante": "eq04",
+        "resultado": null
+      },
+      {
+        "id": "f9-p6",
+        "local": "eq13",
+        "visitante": "eq03",
+        "resultado": null
+      },
+      {
+        "id": "f9-p7",
+        "local": "eq14",
+        "visitante": "eq02",
+        "resultado": null
+      },
+      {
+        "id": "f9-p8",
+        "local": "eq15",
+        "visitante": "eq16",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 10,
+    "enfrentamientos": [
+      {
+        "id": "f10-p1",
+        "local": "eq07",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f10-p2",
+        "local": "eq06",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f10-p3",
+        "local": "eq05",
+        "visitante": "eq09",
+        "resultado": null
+      },
+      {
+        "id": "f10-p4",
+        "local": "eq04",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f10-p5",
+        "local": "eq03",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f10-p6",
+        "local": "eq02",
+        "visitante": "eq12",
+        "resultado": null
+      },
+      {
+        "id": "f10-p7",
+        "local": "eq16",
+        "visitante": "eq13",
+        "resultado": null
+      },
+      {
+        "id": "f10-p8",
+        "local": "eq15",
+        "visitante": "eq14",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 11,
+    "enfrentamientos": [
+      {
+        "id": "f11-p1",
+        "local": "eq01",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f11-p2",
+        "local": "eq07",
+        "visitante": "eq05",
+        "resultado": null
+      },
+      {
+        "id": "f11-p3",
+        "local": "eq08",
+        "visitante": "eq04",
+        "resultado": null
+      },
+      {
+        "id": "f11-p4",
+        "local": "eq09",
+        "visitante": "eq03",
+        "resultado": null
+      },
+      {
+        "id": "f11-p5",
+        "local": "eq10",
+        "visitante": "eq02",
+        "resultado": null
+      },
+      {
+        "id": "f11-p6",
+        "local": "eq11",
+        "visitante": "eq16",
+        "resultado": null
+      },
+      {
+        "id": "f11-p7",
+        "local": "eq12",
+        "visitante": "eq15",
+        "resultado": null
+      },
+      {
+        "id": "f11-p8",
+        "local": "eq13",
+        "visitante": "eq14",
+        "resultado": null
+      }
+    ]
+  },
+  {
+    "fechaId": 12,
+    "enfrentamientos": [
+      {
+        "id": "f12-p1",
+        "local": "eq05",
+        "visitante": "eq01",
+        "resultado": null
+      },
+      {
+        "id": "f12-p2",
+        "local": "eq04",
+        "visitante": "eq06",
+        "resultado": null
+      },
+      {
+        "id": "f12-p3",
+        "local": "eq03",
+        "visitante": "eq07",
+        "resultado": null
+      },
+      {
+        "id": "f12-p4",
+        "local": "eq02",
+        "visitante": "eq08",
+        "resultado": null
+      },
+      {
+        "id": "f12-p5",
+        "local": "eq16",
+        "visitante": "eq09",
+        "resultado": null
+      },
+      {
+        "id": "f12-p6",
+        "local": "eq15",
+        "visitante": "eq10",
+        "resultado": null
+      },
+      {
+        "id": "f12-p7",
+        "local": "eq14",
+        "visitante": "eq11",
+        "resultado": null
+      },
+      {
+        "id": "f12-p8",
+        "local": "eq13",
+        "visitante": "eq12",
+        "resultado": null
+      }
+    ]
+  }
+]

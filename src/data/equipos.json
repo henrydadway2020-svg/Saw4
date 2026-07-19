@@ -1,0 +1,18 @@
+[
+  { "id": "eq01", "nombre": "Equipo 1", "color": "#8C1A1A", "logo": "" },
+  { "id": "eq02", "nombre": "Equipo 2", "color": "#D8A31E", "logo": "" },
+  { "id": "eq03", "nombre": "Equipo 3", "color": "#4E7C6E", "logo": "" },
+  { "id": "eq04", "nombre": "Equipo 4", "color": "#6B4E9E", "logo": "" },
+  { "id": "eq05", "nombre": "Equipo 5", "color": "#B85C2E", "logo": "" },
+  { "id": "eq06", "nombre": "Equipo 6", "color": "#2E6B8C", "logo": "" },
+  { "id": "eq07", "nombre": "Equipo 7", "color": "#8C2E5C", "logo": "" },
+  { "id": "eq08", "nombre": "Equipo 8", "color": "#5C8C2E", "logo": "" },
+  { "id": "eq09", "nombre": "Equipo 9", "color": "#9E6B4E", "logo": "" },
+  { "id": "eq10", "nombre": "Equipo 10", "color": "#4E6B9E", "logo": "" },
+  { "id": "eq11", "nombre": "Equipo 11", "color": "#9E4E6B", "logo": "" },
+  { "id": "eq12", "nombre": "Equipo 12", "color": "#6B9E4E", "logo": "" },
+  { "id": "eq13", "nombre": "Equipo 13", "color": "#C4772E", "logo": "" },
+  { "id": "eq14", "nombre": "Equipo 14", "color": "#2E9E8C", "logo": "" },
+  { "id": "eq15", "nombre": "Equipo 15", "color": "#9E2E3E", "logo": "" },
+  { "id": "eq16", "nombre": "Equipo 16", "color": "#7C6B2E", "logo": "" }
+]
