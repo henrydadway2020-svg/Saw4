@@ -3,84 +3,84 @@
     "id": 1,
     "nombre": "Caída de los Ex",
     "emoji": "🔥",
-    "regla": "Sin Pokémon EX.",
+    "regla": "Formato 5 vs 5. Prohibidos todos los Pokémon EX.",
     "desbloqueada": false
   },
   {
     "id": 2,
     "nombre": "Guerra de Elementos",
     "emoji": "🌊🔥",
-    "regla": "Solo Pokémon Agua y Fuego.",
+    "regla": "Formato 5 vs 5. Solo Pokémon de tipo Agua. Solo Pokémon de tipo Fuego. Solo Energías Agua y Fuego.",
     "desbloqueada": false
   },
   {
     "id": 3,
-    "nombre": "Sin Recuperación",
+    "nombre": "Energía Limitada",
     "emoji": "💀",
-    "regla": "No se permiten cartas ni Pokémon que curen o aumenten vida.",
+    "regla": "Formato BO3. Ningún Pokémon puede tener más de 3 energías unidas durante un match. Durante el BO3 no se pueden repetir Pokémon ni tipos de energía entre los mazos utilizados.",
     "desbloqueada": false
   },
   {
     "id": 4,
-    "nombre": "La Maldición de Gengar",
-    "emoji": "👻",
-    "regla": "Gengar debe ser el Pokémon principal.",
+    "nombre": "Peso Muerto",
+    "emoji": "🛡️",
+    "regla": "Formato BO3. Solo se permiten Pokémon con costo de retirada de 3 o 4. Decks libres. Energías libres. 5 vs 5. Ningún jugador puede repetir participación durante la fecha.",
     "desbloqueada": false
   },
   {
     "id": 5,
-    "nombre": "Batalla de la Diversidad",
-    "emoji": "🎲",
-    "regla": "BO1. Los jugadores del mismo equipo no pueden repetir Pokémon ni energía.",
+    "nombre": "Sobrecarga",
+    "emoji": "⚡",
+    "regla": "Formato BO3. Solo se permiten Pokémon que se autocarguen energías mediante habilidad o efecto, o que descarten energías mediante habilidad o efecto (no cuentan las descartadas por retirada a la banca). Decks libres. Energías libres.",
     "desbloqueada": false
   },
   {
     "id": 6,
     "nombre": "El Último Guerrero",
-    "emoji": "⚡",
-    "regla": "Solo una familia Pokémon. Permitido: Pokémon básico y sus evoluciones. Prohibido: otros Pokémon, segunda familia evolutiva y banca.",
+    "emoji": "⚔️",
+    "regla": "Formato BO3. Cada mazo solo podrá contener una única familia evolutiva (Pokémon Básico y todas sus evoluciones). Prohibido incluir Pokémon de otra familia evolutiva. Energías libres.",
     "desbloqueada": false
   },
   {
     "id": 7,
-    "nombre": "Batalla Sin Apoyo",
-    "emoji": "🃏",
-    "regla": "Sin cartas de apoyo.",
+    "nombre": "Todo o Nada",
+    "emoji": "🎯",
+    "regla": "Formato BO3. Solo se permiten Pokémon cuyos ataques tengan un costo mínimo de 3 energías. Energías libres.",
     "desbloqueada": false
   },
   {
     "id": 8,
-    "nombre": "El Despertar de la Fase 2",
-    "emoji": "🧬",
-    "regla": "Solo Pokémon con Fase 2. Prohibido: Caramelo, Paleta, Helado y aceleradores de evolución.",
+    "nombre": "Rey de la Colina",
+    "emoji": "👑",
+    "regla": "Cada equipo elegirá 2 jugadores. Formato Conquest. Cada jugador registrará 5 decks, sin repetir Pokémon ni tipos de energía entre ellos. El deck ganador permanece en juego y el perdedor queda eliminado. Gana quien elimine los 5 decks del rival.",
     "desbloqueada": false
   },
   {
     "id": 9,
-    "nombre": "El Origen del Entrenador",
-    "emoji": "⚔️",
-    "regla": "Solo Pokémon Básicos. Prohibido: Fase 1 y Fase 2.",
+    "nombre": "Los Impostores",
+    "emoji": "🧬",
+    "regla": "Formato BO3. Solo Ditto y Mew pueden declarar ataques. Ningún otro Pokémon puede atacar.",
     "desbloqueada": false
   },
   {
     "id": 10,
-    "nombre": "La Guardería SAW",
-    "emoji": "🍼",
-    "regla": "Solo Pokémon Baby.",
+    "nombre": "La Venganza",
+    "emoji": "🛡️",
+    "regla": "Formato BO3. Solo se permiten Pokémon con habilidades o efectos que inflijan daño al atacante al recibir un ataque o reduzcan el daño recibido. Prohibidos Objetos y Herramientas que aumenten PS, reduzcan daño o recuperen PS.",
     "desbloqueada": false
   },
   {
     "id": 11,
-    "nombre": "La Suerte del Entrenador",
-    "emoji": "🪙",
-    "regla": "Solo Pokémon con ataques de moneda. Prohibido: cartas que ayuden al lanzamiento, repetir monedas y modificar resultados.",
+    "nombre": "Evolución en Cadena",
+    "emoji": "🧬",
+    "regla": "Formato BO3. Solo se permiten Pokémon que se autoevolucionen, coloquen Pokémon en la banca mediante habilidad o efecto, o evolucionen/hagan evolucionar a otro Pokémon mediante habilidad o efecto. Prohibido Caramelo Raro y las cartas Paleta y Helado. Energías libres.",
     "desbloqueada": false
   },
   {
     "id": 12,
-    "nombre": "Dominio del Campo SAW",
-    "emoji": "🏟️",
-    "regla": "Para que una victoria sea válida, el jugador ganador debe haber utilizado al menos 1 Estadio durante la partida.",
+    "nombre": "Sangre por Poder",
+    "emoji": "💀",
+    "regla": "Formato BO3. Solo se permiten Pokémon cuyos ataques les hagan daño a sí mismos como parte del costo o efecto. Energías libres. Decks libres.",
     "desbloqueada": false
   }
 ]
