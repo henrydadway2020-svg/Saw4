@@ -1,1 +1,10 @@
-[]
+[
+  { "fechaId": 1, "enfrentamientoId": "f1-p2", "local": "eq02", "visitante": "eq15", "victoriasLocal": 3, "victoriasVisitante": 2, "muerteSubita": null, "ganador": "eq02" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p6", "local": "eq06", "visitante": "eq11", "victoriasLocal": 3, "victoriasVisitante": 1, "muerteSubita": null, "ganador": "eq06" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p5", "local": "eq05", "visitante": "eq12", "victoriasLocal": 2, "victoriasVisitante": 3, "muerteSubita": null, "ganador": "eq12" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p7", "local": "eq07", "visitante": "eq10", "victoriasLocal": 3, "victoriasVisitante": 1, "muerteSubita": null, "ganador": "eq07" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p8", "local": "eq08", "visitante": "eq09", "victoriasLocal": 2, "victoriasVisitante": 3, "muerteSubita": null, "ganador": "eq09" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p3", "local": "eq03", "visitante": "eq14", "victoriasLocal": 2, "victoriasVisitante": 3, "muerteSubita": null, "ganador": "eq14" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p4", "local": "eq04", "visitante": "eq13", "victoriasLocal": 1, "victoriasVisitante": 3, "muerteSubita": null, "ganador": "eq13" },
+  { "fechaId": 1, "enfrentamientoId": "f1-p1", "local": "eq01", "visitante": "eq16", "victoriasLocal": 0, "victoriasVisitante": 2, "muerteSubita": null, "ganador": "eq16" }
+]
