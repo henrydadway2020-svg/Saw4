@@ -1,114 +1,18 @@
 [
-  {
-    "equipoId": "eq01",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq02",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq03",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq04",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq05",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq06",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq07",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq08",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq09",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq10",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq11",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq12",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq13",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq14",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq15",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  },
-  {
-    "equipoId": "eq16",
-    "pj": 0,
-    "pg": 0,
-    "pp": 0,
-    "pts": 0
-  }
+  { "equipoId": "eq06", "pj": 4, "pg": 4, "pp": 0, "pts": 12 },
+  { "equipoId": "eq08", "pj": 4, "pg": 3, "pp": 1, "pts": 9 },
+  { "equipoId": "eq09", "pj": 4, "pg": 3, "pp": 1, "pts": 9 },
+  { "equipoId": "eq12", "pj": 4, "pg": 3, "pp": 1, "pts": 9 },
+  { "equipoId": "eq13", "pj": 4, "pg": 3, "pp": 1, "pts": 9 },
+  { "equipoId": "eq14", "pj": 4, "pg": 3, "pp": 1, "pts": 9 },
+  { "equipoId": "eq03", "pj": 4, "pg": 2, "pp": 2, "pts": 6 },
+  { "equipoId": "eq07", "pj": 4, "pg": 2, "pp": 2, "pts": 6 },
+  { "equipoId": "eq10", "pj": 4, "pg": 2, "pp": 2, "pts": 6 },
+  { "equipoId": "eq11", "pj": 4, "pg": 2, "pp": 2, "pts": 6 },
+  { "equipoId": "eq15", "pj": 4, "pg": 2, "pp": 2, "pts": 6 },
+  { "equipoId": "eq01", "pj": 4, "pg": 1, "pp": 3, "pts": 3 },
+  { "equipoId": "eq02", "pj": 4, "pg": 1, "pp": 3, "pts": 3 },
+  { "equipoId": "eq16", "pj": 4, "pg": 1, "pp": 3, "pts": 3 },
+  { "equipoId": "eq04", "pj": 4, "pg": 0, "pp": 4, "pts": 0 },
+  { "equipoId": "eq05", "pj": 4, "pg": 0, "pp": 4, "pts": 0 }
 ]
