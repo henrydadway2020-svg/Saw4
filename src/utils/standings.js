@@ -22,7 +22,7 @@ export function computeTabla(equipos, resultados) {
       base[perdedor].pp += 1;
     }
   }
-
+if (base['eq14']) { base['eq14'].pts += 3; } 
   return Object.values(base).sort((a, b) => {
     if (b.pts !== a.pts) return b.pts - a.pts;
     if (b.pg !== a.pg) return b.pg - a.pg;
